@@ -1,6 +1,6 @@
 ## Welcome to Pumpeet Organization Repository!
 
-Here you will find our code base for our websites and contracts! This project aims to create an alternate version of [pump.fun](https://pump.fun), a fair launch platform. Pumpeet is designed with user experience and scalability in mind.  
+Here you will find our code base for our websites and contracts! This project aims to create an alternate version of [pump.fun](https://pump.fun), a fair launch platform with wallet reputation system. Pumpeet is designed with user experience and scalability in mind.  
 
 ### Our Progress:
 
